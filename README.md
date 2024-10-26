@@ -1,2 +1,2 @@
 # pr22
-hacktoberfest
+hackto
